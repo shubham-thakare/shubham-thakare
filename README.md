@@ -2,6 +2,7 @@
 <span>Opensource Enthusiast and Software Engineer</span>
 
 <br />
+<br />
 
 <div>
   <a href=""><img src="./icons/linkedin.svg" width="25px"/></a>
