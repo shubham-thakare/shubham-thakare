@@ -1,16 +1,19 @@
-### Hi there 👋
+<div style="display: grid; grid-template-columns: 40% 60%;">
+<div>
+Hi
+</div>
 
-<!--
-**shubham-thakare/shubham-thakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+<div>
+<h1>Hi, I am Shubham</h1>
+<span style="color: #888;">Opensource Enthusiast and Software Engineer</span>
+</div>
+<br />
+<div>
+<img src="./icons/linkedin.svg" />
+<img src="./icons/twitter.svg" />
+<img src="./icons/world.svg" />
+<img src="./icons/email.svg" />
+</div>
+</div>
+</div>
