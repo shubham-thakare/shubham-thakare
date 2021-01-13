@@ -1,5 +1,5 @@
 <h1>Hi, I am Shubham</h1>
-<span>Open Source Enthusiast and Software Engineer</span>
+<span>Open Source Enthusiast and A Software Engineer</span>
 
 <br />
 <br />
