@@ -1,8 +1,4 @@
-<h1>Hi, I am Shubham</h1>
-<span>Open Source Enthusiast and A Software Engineer</span>
-
-<br />
-<br />
+<img src="./icons/poster.svg"/>
 
 <div>
   <a href="https://www.linkedin.com/in/shubham-v-thakare" target="_blank"><img src="./icons/linkedin.svg" width="25px"/></a>
