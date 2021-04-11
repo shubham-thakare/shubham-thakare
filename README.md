@@ -17,6 +17,5 @@
 <div align="center">
   
   [![shubham-thakare's github stats](https://github-readme-stats.vercel.app/api?username=shubham-thakare&theme=blue-green)](#)
-  [![shubham-thakare's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-thakare&theme=blue-green)](#)
 
 </div>
