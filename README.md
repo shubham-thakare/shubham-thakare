@@ -2,11 +2,9 @@
 
 <h1>Hi, I am Shubham</h1>
 
-**Open Source Enthusiast and Software Engineer**
+**Open Source Enthusiast** and **Software Engineer**
 
 </div>
-
-<br />
 
 <div align="center">
   
