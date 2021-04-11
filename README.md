@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  *Follow me on*
+  *Also available on*
   
   <a href="https://www.linkedin.com/in/shubham-v-thakare" target="_blank"><img src="./icons/linkedin.svg" width="25px"/></a>
   &nbsp;
