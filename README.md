@@ -8,8 +8,8 @@
 
 <div align="center">
   
-  [![shubham-thakare's github stats](https://github-readme-stats.vercel.app/api?username=shubham-thakare&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/shubham-thakare?tab=repositories)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-thakare&layout=compact&theme=gradient)](https://github.com/shubham-thakare?tab=repositories)
+  [![shubham-thakare's github stats](https://github-readme-stats.vercel.app/api?username=shubham-thakare&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/shubham-thakare?tab=repositories)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-thakare&layout=compact&theme=blue-green)](https://github.com/shubham-thakare?tab=repositories)
   
 </div>
 
