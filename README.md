@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>Hi, I am Shubham</h1>
-<span>Open Source Enthusiast and Software Engineer</span>
+
+**Open Source Enthusiast and Software Engineer**
 
 </div>
 
@@ -15,7 +16,7 @@
 
 <div align="center">
   
-  Follow me on
+  *Follow me on*
   
   <a href="https://www.linkedin.com/in/shubham-v-thakare" target="_blank"><img src="./icons/linkedin.svg" width="25px"/></a>
   &nbsp;
